@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 # ── Pagina configuratie ──────────────────────────────────────────────────────
 st.set_page_config(
     page_title=HARTstikke Gezond,
+    page_icon=❤️,
     layout=wide,
     initial_sidebar_state=collapsed
 )
